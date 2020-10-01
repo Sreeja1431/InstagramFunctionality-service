@@ -1,0 +1,12 @@
+{   
+    "mongoURI_filePath1": "mongodb://localhost:27017/uploads1?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
+    "mongoURI_filePath2": "mongodb://localhost:27017/uploads2?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
+    "mongoURI_filePath3": "mongodb://localhost:27017/uploads3?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
+    "mongoURI_filePath4": "mongodb://localhost:27017/uploads4?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
+    "mongoURI_usersDB": "mongodb://localhost:27017/instausers?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
+    "mongoLocal":"mongodb://localhost:27017",
+    "jwtSecret": "uscc",
+    "baseUrl": "http://localhost:1998/insta",
+    "mailSenderEmailId": "this.is.test.email.uscc@gmail.com",
+    "mailSenderPwd": "uscctest0!"
+}
