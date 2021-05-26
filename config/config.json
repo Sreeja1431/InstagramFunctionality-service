@@ -5,8 +5,8 @@
     "mongoURI_filePath4": "mongodb://localhost:27017/uploads4?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
     "mongoURI_usersDB": "mongodb://localhost:27017/instausers?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
     "mongoLocal":"mongodb://localhost:27017",
-    "jwtSecret": "uscc",
+    "jwtSecret": "test",
     "baseUrl": "http://localhost:1998/insta",
-    "mailSenderEmailId": "this.is.test.email.uscc@gmail.com",
-    "mailSenderPwd": "uscctest0!"
+    "mailSenderEmailId": "this.is.test.email@gmail.com",
+    "mailSenderPwd": "test"
 }
